@@ -1,0 +1,1 @@
+export default ErrorFallback = () => " Sorry something went wrong";
